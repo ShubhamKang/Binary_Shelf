@@ -64,29 +64,10 @@ Explore Modules:
 Browse modules to review frameworks and related documentation. 
 binarytechshelf.netlify.app
 
-🧩 Technologies (example)
-
-(Customize these based on your actual tech stack)
+🧩 Technologies 
 
 HTML, CSS, JavaScript
-
-Frontend framework (React/Vue/Svelte/Next.js etc.)
-
 Hosted with Netlify – a fast, modern platform for deploying web projects. 
 Netlify
 
-🧪 Contributing
 
-Fork the repository
-
-Create a new branch (git checkout -b feature-name)
-
-Make your changes
-
-Commit & push
-
-Open a Pull Request
-
-📄 License
-
-This project is licensed under the MIT License (or specify license).
