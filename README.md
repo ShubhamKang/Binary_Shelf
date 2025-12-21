@@ -1,5 +1,5 @@
 
-#📚 BinaryShelf – Tech Library
+📚 BinaryShelf – Tech Library
 
 BinaryShelf is a simple and intuitive online catalog designed to help users organize, browse, and manage technical books and technology modules — all in one place.
 
