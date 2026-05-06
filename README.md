@@ -29,26 +29,6 @@ Versioned & Stable
 Current version: v1.0.5-Stable. 
 binarytechshelf.netlify.app
 
-🛠️ Getting Started
-
-To run this project locally:
-
-Clone the repository
-
-git clone https://github.com/<your-username>/<repo-name>.git
-
-
-Install Dependencies
-
-npm install
-
-
-Start Development Server
-
-npm start
-
-
-This launches the app locally (e.g., http://localhost:3000).
 
 📚 Usage
 
